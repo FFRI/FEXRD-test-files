@@ -1,0 +1,80 @@
+{
+  "flattened_entries": [
+    [
+      4098,
+      "ABSOLUTE"
+    ],
+    [
+      4098,
+      "LOW"
+    ],
+    [
+      4098,
+      "SECTION"
+    ],
+    [
+      4098,
+      "REL | ARM_MOV32T | THUMB_MOV32 | RISCV_LOW12I"
+    ],
+    [
+      4279,
+      "ABSOLUTE"
+    ],
+    [
+      4279,
+      "HIGH"
+    ],
+    [
+      4279,
+      "LOW"
+    ],
+    [
+      4279,
+      "HIGHLOW"
+    ],
+    [
+      4279,
+      "HIGHADJ"
+    ],
+    [
+      4279,
+      "RISCV_LOW12S"
+    ],
+    [
+      4279,
+      "MIPS_JMPADDR | ARM_MOV32A | ARM_MOV32 | RISCV_HI20"
+    ],
+    [
+      4279,
+      "SECTION"
+    ],
+    [
+      4279,
+      "REL | ARM_MOV32T | THUMB_MOV32 | RISCV_LOW12I"
+    ],
+    [
+      4279,
+      "MIPS_JMPADDR16 | IA64_IMM64"
+    ],
+    [
+      4279,
+      "DIR64"
+    ],
+    [
+      4418,
+      "HIGHLOW"
+    ],
+    [
+      4418,
+      "HIGHLOW"
+    ],
+    [
+      4418,
+      "HIGH"
+    ],
+    [
+      4418,
+      "MIPS_JMPADDR | ARM_MOV32A | ARM_MOV32 | RISCV_HI20"
+    ]
+  ]
+}

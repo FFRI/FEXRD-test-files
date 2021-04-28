@@ -1,0 +1,1 @@
+{"detects": ["packer: UPX(3.96)[NRV,best]", "linker: Microsoft Linker(14.21**)[Console64,console]"]}

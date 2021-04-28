@@ -1,0 +1,5 @@
+{
+  "detects": [
+    "linker: unknown(0.0)[Console32,console]"
+  ]
+}

@@ -1,0 +1,23 @@
+{ "lief":
+{
+  "relocations":
+[
+  {
+    "block_size": 12,
+    "entries": [
+      {
+        "data": 13120,
+        "position": 832,
+        "type": "HIGHLOW"
+      },
+      {
+        "data": 0,
+        "position": 0,
+        "type": "ABSOLUTE"
+      }
+    ],
+    "virtual_address": 8192
+  }
+]
+}
+}

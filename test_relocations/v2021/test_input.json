@@ -1,0 +1,119 @@
+{
+  "lief": {
+    "relocations": [
+      {
+        "block_size": 16,
+        "entries": [
+          {
+            "data": 0,
+            "position": 0,
+            "type": "ABSOLUTE"
+          },
+          {
+            "data": 8192,
+            "position": 0,
+            "type": "LOW"
+          },
+          {
+            "data": 24576,
+            "position": 0,
+            "type": "SECTION"
+          },
+          {
+            "data": 28672,
+            "position": 0,
+            "type": "REL | ARM_MOV32T | THUMB_MOV32 | RISCV_LOW12I"
+          }
+        ],
+        "virtual_address": 4098
+      },
+      {
+        "block_size": 30,
+        "entries": [
+          {
+            "data": 0,
+            "position": 0,
+            "type": "ABSOLUTE"
+          },
+          {
+            "data": 4096,
+            "position": 0,
+            "type": "HIGH"
+          },
+          {
+            "data": 8192,
+            "position": 0,
+            "type": "LOW"
+          },
+          {
+            "data": 12288,
+            "position": 0,
+            "type": "HIGHLOW"
+          },
+          {
+            "data": 16384,
+            "position": 0,
+            "type": "HIGHADJ"
+          },
+          {
+            "data": 32768,
+            "position": 0,
+            "type": "RISCV_LOW12S"
+          },
+          {
+            "data": 20480,
+            "position": 0,
+            "type": "MIPS_JMPADDR | ARM_MOV32A | ARM_MOV32 | RISCV_HI20"
+          },
+          {
+            "data": 24576,
+            "position": 0,
+            "type": "SECTION"
+          },
+          {
+            "data": 28672,
+            "position": 0,
+            "type": "REL | ARM_MOV32T | THUMB_MOV32 | RISCV_LOW12I"
+          },
+          {
+            "data": 36864,
+            "position": 0,
+            "type": "MIPS_JMPADDR16 | IA64_IMM64"
+          },
+          {
+            "data": 40960,
+            "position": 0,
+            "type": "DIR64"
+          }
+        ],
+        "virtual_address": 4279
+      },
+      {
+        "block_size": 16,
+        "entries": [
+          {
+            "data": 12288,
+            "position": 0,
+            "type": "HIGHLOW"
+          },
+          {
+            "data": 12288,
+            "position": 0,
+            "type": "HIGHLOW"
+          },
+          {
+            "data": 4096,
+            "position": 0,
+            "type": "HIGH"
+          },
+          {
+            "data": 20480,
+            "position": 0,
+            "type": "MIPS_JMPADDR | ARM_MOV32A | ARM_MOV32 | RISCV_HI20"
+          }
+        ],
+        "virtual_address": 4418
+      }
+    ]
+  }
+}

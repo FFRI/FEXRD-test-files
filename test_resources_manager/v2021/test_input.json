@@ -1,0 +1,60 @@
+{
+"lief":
+{
+"resources_manager": {
+  "version": {
+    "fixed_file_info": {
+      "file_date_LS": 0,
+      "file_date_MS": 0,
+      "file_flags": 0,
+      "file_flags_mask": 63,
+      "file_os": "WINDOWS32",
+      "file_subtype": "UNKNOWN",
+      "file_type": "APP",
+      "file_version_LS": 0,
+      "file_version_MS": 0,
+      "product_version_LS": 0,
+      "product_version_MS": 0,
+      "signature": 4277077181,
+      "struct_version": 65536
+    },
+    "key": "VS_VERSION_INFO",
+    "string_file_info": {
+      "key": "StringFileInfo",
+      "langcode_items": [
+        {
+          "items": {
+            "Assembly Version": "0.0.0.0",
+            "FileDescription": " ",
+            "FileVersion": "0.0.0.0",
+            "InternalName": "hw.exe",
+            "LegalCopyright": " ",
+            "OriginalFilename": "hw.exe",
+            "ProductVersion": "0.0.0.0"
+          },
+          "key": "000004b0",
+          "type": 1
+        }
+      ],
+      "type": 1
+    },
+    "type": 0,
+    "var_file_info": {
+      "key": "VarFileInfo",
+      "translations": [
+        6357106,
+        7536750,
+        6357100,
+        6881396,
+        7209071,
+        0,
+        78643200,
+        404,
+        5439489
+      ],
+      "type": 1
+    }
+  }
+}
+}
+}

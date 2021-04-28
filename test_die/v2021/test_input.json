@@ -1,0 +1,25 @@
+{
+  "die": {
+    "arch": "AMD64",
+    "detects": [
+      {
+        "name": "UPX",
+        "options": "NRV,best",
+        "string": "packer: UPX(3.96)[NRV,best]",
+        "type": "packer",
+        "version": "3.96"
+      },
+      {
+        "name": "Microsoft Linker",
+        "options": "Console64,console",
+        "string": "linker: Microsoft Linker(14.21**)[Console64,console]",
+        "type": "linker",
+        "version": "14.21**"
+      }
+    ],
+    "endianess": "LE",
+    "filetype": "PE64",
+    "mode": "64",
+    "type": "Console"
+  }
+}

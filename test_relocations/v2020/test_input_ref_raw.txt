@@ -1,0 +1,12 @@
+{
+  "flattened_entries": [
+    [
+      9024,
+      "HIGHLOW"
+    ],
+    [
+      8192,
+      "ABSOLUTE"
+    ]
+  ]
+}
