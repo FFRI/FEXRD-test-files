@@ -1,0 +1,1 @@
+{"die": {"detects": [{"filetype": "PE32", "parentfilepart": "Header", "values": [{"info": "-", "name": "MASM32", "string": "Compiler: MASM32(8-11)[-]", "type": "Compiler", "version": "8-11"}, {"info": "Console32,console,signed", "name": "Microsoft Linker", "string": "Linker: Microsoft Linker(3.0*)[Console32,console,signed]", "type": "Linker", "version": "3.0*"}]}]}}

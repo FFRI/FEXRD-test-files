@@ -1,0 +1,12 @@
+{
+  "manalyze_output": {
+    "ManalyzeDetectionReason.UNUSUAL_SECTION_NAME": 1,
+    "ManalyzeDetectionReason.W_AND_X": 1,
+    "ManalyzeDetectionReason.FEW_IMPORTS": 1,
+    "ManalyzeDetectionReason.KNOWN_PACKER_SECTION_NAME": 0,
+    "ManalyzeDetectionReason.BROKEN_RITCH_HEADER": 0,
+    "ManalyzeDetectionReason.BROKEN_RESOURCE": 0,
+    "ManalyzeDetectionReason.HIGH_ENTROPY": 0,
+    "ManalyzeDetectionReason.POSSIBLY_PACKED": 1
+  }
+}

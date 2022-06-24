@@ -1,0 +1,1 @@
+{"manalyze_plugin_packer": {"level": 2, "plugin_output": {"info_0": "Unusual section name found:", "info_1": "Section  is both writable and executable.", "info_2": "The PE only has 6 import(s)."}, "summary": "The PE is possibly packed."}}

@@ -1,0 +1,6 @@
+{
+  "detects": [
+    "Compiler: MASM32(8-11)[-]",
+    "Linker: Microsoft Linker(3.0*)[Console32,console,signed]"
+  ]
+}

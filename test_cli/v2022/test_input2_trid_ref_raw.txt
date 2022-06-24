@@ -1,0 +1,24 @@
+{
+  "trid_entries": [
+    [
+      "(.DLL)Win32DynamicLinkLibrary(generic)(6578/25/2)",
+      0.29600000000000004
+    ],
+    [
+      "(.EXE)Win16NEexecutable(generic)(5038/12/1)",
+      0.22699999999999998
+    ],
+    [
+      "(.EXE)Win32Executable(generic)(4505/5/1)",
+      0.203
+    ],
+    [
+      "(.EXE)OS/2Executable(generic)(2029/13)",
+      0.091
+    ],
+    [
+      "(.EXE)GenericWin/DOSExecutable(2002/3)",
+      0.09
+    ]
+  ]
+}

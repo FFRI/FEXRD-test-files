@@ -1,0 +1,1 @@
+{"lief": {"relocations": [{"block_size": 10, "entries": [{"data": 1, "position": 1, "type": "ABSOLUTE"}], "virtual_address": 10901}]}}
