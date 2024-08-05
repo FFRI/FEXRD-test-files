@@ -1,0 +1,7 @@
+{
+  "detects": [
+    "Linker: Microsoft Linker(14.25.28614)",
+    "Compiler: Microsoft Visual C/C++(19.25.28614)[LTCG/C++]",
+    "Tool: Visual Studio(2019 version 16.5)"
+  ]
+}

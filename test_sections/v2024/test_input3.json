@@ -1,0 +1,1 @@
+{"lief": {"sections": [{"characteristics": ["MEM_EXECUTE", "MEM_WRITE", "UNKNOWN"], "entropy": 5.376347230992362, "name": "", "numberof_line_numbers": 0, "numberof_relocations": 0, "pointerto_line_numbers": 0, "pointerto_relocation": 0, "types": ["UNKNOWN"]}]}}

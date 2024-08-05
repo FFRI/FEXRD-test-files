@@ -1,0 +1,24 @@
+{
+  "trid_entries": [
+    [
+      "(.EXE)Win64Executable(generic)(10523/12/4)",
+      0.444
+    ],
+    [
+      "(.EXE)Win16NEexecutable(generic)(5038/12/1)",
+      0.213
+    ],
+    [
+      "(.ICL)WindowsIconsLibrary(generic)(2059/9)",
+      0.087
+    ],
+    [
+      "(.EXE)OS/2Executable(generic)(2029/13)",
+      0.085
+    ],
+    [
+      "(.EXE)GenericWin/DOSExecutable(2002/3)",
+      0.084
+    ]
+  ]
+}

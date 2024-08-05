@@ -1,0 +1,13 @@
+{
+    "manalyze_plugin_packer": {
+        "level": 3,
+        "plugin_output": {
+            "info_0": "Unusual section name found: .text\\x00{=",
+            "info_1": "Unusual section name found: .rmnet\\x00\\xa1",
+            "info_2": "Unusual section name found: .l1\\x00\\x1b\\x7f",
+            "info_3": "Section .l1\\x00\\x1b\\x7f is both writable and executable.",
+            "info_4": "The RICH header checksum is invalid."
+        },
+        "summary": "The file headers were tampered with."
+    }
+}
